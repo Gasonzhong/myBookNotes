@@ -29,6 +29,6 @@ Native方法服务
 ### 直接内存 
 
 ### java对象创建过程
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/Gasonzhong/myBookNotes/blob/master/JVM/newprocess.pnghttps://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 ### 对象访问定位的两种方式
