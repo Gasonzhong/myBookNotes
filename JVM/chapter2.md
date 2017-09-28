@@ -32,4 +32,4 @@ Native方法服务
 ![Image text](https://github.com/Gasonzhong/myBookNotes/blob/master/JVM/newprocess.png)
 
 ### 对象访问定位的两种方式
-![Image text](https://github.com/Gasonzhong/myBookNotes/blob/master/JVM/pool.png)
+![Image text](https://github.com/Gasonzhong/myBookNotes/blob/master/JVM/pool.jpg)
